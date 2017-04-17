@@ -29,11 +29,11 @@ If you like YouTube comments this app is not for you. Move along.
 You can install this extension in 2 ways:
 
 1. Long installation
-  a. Download the repo (if you download as zip, extract the files in a known location)
-  b. Go to [chrome://extensions](chrome://extensions)
-  c. Click `Load unpacked extension` and navigate to the folder where you downloaded this repo
-  d. Restart Chrome
+    1. Download the repo (if you download as zip, extract the files in a known location)  
+    2. Go to [chrome://extensions](chrome://extensions)  
+    3. Click `Load unpacked extension` and navigate to the folder where you downloaded this repo  
+    4. Restart Chrome  
 2. Short installation (if you trust downloading binaries)
-  a. Download [bin/youtube-no-recommend.crx](https://github.com/georgepar/youtube-no-recommend/raw/master/bin/youtube-no-recommend.crx)
-  b. Drag and drop to Chrome
-  c. Restart Chrome
+    1. Download [bin/youtube-no-recommend.crx](https://github.com/georgepar/youtube-no-recommend/raw/master/bin/youtube-no-recommend.crx)
+    2. Drag and drop to Chrome
+    3. Restart Chrome
