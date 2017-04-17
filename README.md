@@ -1,7 +1,7 @@
 # youtube-no-recommend
 Chrome extension to hide YouTube feed, comments and sidebar recommended videos
 
-Go to [Instalation](#Instalation) to skip the rant
+Go to [Installation](#Installation) to skip the rant
 
 ## Rant
 
