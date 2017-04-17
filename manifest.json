@@ -1,0 +1,17 @@
+{
+    "name":"Youtube NoRecommend",
+    "description":"Hide video recommendations from YouTube feed and sidebar",
+    "version":"0.0.1",
+    "manifest_version":2,
+    "permissions": [
+        "http://*/*",
+        "https://*/*",
+        "webNavigation"
+    ],
+    "content_scripts": [
+        {
+            "matches": ["http://www.youtube.com/*","https://www.youtube.com/*"],
+            "css": ["hide-distractions.css"]
+        }
+    ]
+}
