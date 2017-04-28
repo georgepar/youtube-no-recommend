@@ -26,6 +26,12 @@ and the sidebar recommendations.
 **Bonus feature**: This plugin also hides the hated YouTube comments section.
 If you like YouTube comments this app is not for you. Move along.
 
+Some examples about the monstrosities this plugin will save you from:
+
+![Monstrosity 1](http://runt-of-the-web.com/wordpress/wp-content/uploads/2012/11/stupid-youtube-comments-yolo.png)
+![Monstrosity 2](http://i.imgur.com/yM3uz8f.png)
+![Monstrosity 3](http://i.imgur.com/E2u0fDQ.png)
+
 ## Installation
 
 You can install this extension in 2 ways:
