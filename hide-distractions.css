@@ -9,3 +9,15 @@
 #watch-discussion {
     display: none;
 }
+
+#related {
+    display: none;
+}
+
+#comments {
+    display: none;
+}
+
+ytd-page-manager > ytd-browse.ytd-page-manager {
+    display: none;
+}
