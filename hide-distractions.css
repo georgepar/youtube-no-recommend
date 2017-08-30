@@ -18,6 +18,6 @@
     display: none;
 }
 
-ytd-page-manager > ytd-browse.ytd-page-manager {
+ytd-browse[page-subtype=home] > ytd-two-column-browse-results-renderer {
     display: none;
 }
